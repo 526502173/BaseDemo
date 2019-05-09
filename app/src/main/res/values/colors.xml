@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="main_color">#D81B60</color>
+    <color name="bg_color_f2f">#f2f2f2</color>
+    <color name="text_333">#333333</color>
+    <color name="text_666">#666666</color>
+
+    <!--toolbar-->
+    <color name="view_bg_dd5">#dd5335</color>
+    <color name="text_1a">#1a1a1a</color>
+    <color name="bg_color_white">#ffffff</color>
+</resources>

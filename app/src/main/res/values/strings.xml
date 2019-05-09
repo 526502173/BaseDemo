@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">BaseDemo</string>
+    <string name="net_error">网络错误</string>
+    <string name="net_error_long">网络请求失败</string>
+    <string name="reload" translatable="false">重新加载</string>
+    <string name="no_data_error_long" translatable="false">这里空空如也</string>
+</resources>
